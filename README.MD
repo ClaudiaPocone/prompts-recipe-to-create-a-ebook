@@ -86,4 +86,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Claudia Pocone](https://github.com/ClaudiaPoconeCode)
